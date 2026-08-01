@@ -1,5 +1,7 @@
 # 📱 Instagram Live Auto-Recorder (Tasker + Flask)
 
+Uso Educativo: Questo progetto e il codice sorgente allegato sono stati creati a scopo puramente educativo e di ricerca, per dimostrare l'integrazione tra automazioni Android (Tasker), Webhook e server web Python (Flask).
+
 Questo progetto è un'automazione che intercetta le notifiche delle dirette Instagram su uno smartphone Android (usando **Tasker**) e fa partire automaticamente la registrazione del video su un server remoto utilizzando **Flask** e **PyInstaLive**.
 
 In breve: se un account che segui fa partire una diretta, il tuo telefono se ne accorge e dice al tuo server di iniziare a registrarla, inviandoti anche una notifica di conferma tramite IFTTT.
